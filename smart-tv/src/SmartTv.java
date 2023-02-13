@@ -1,4 +1,3 @@
-import java.security.PublicKey;
 
 public class SmartTv{
     boolean ligada = false;
