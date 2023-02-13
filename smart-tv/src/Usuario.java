@@ -10,24 +10,24 @@ public class Usuario {
         System.out.println("Volume: "+ smarTv.volume);
 
         smarTv.ligar();
-        System.out.println(" ?A TV está ligada ? (2)" + smarTv.ligada);
+        System.out.println("A TV está ligada ? (2) " + smarTv.ligada);
         smarTv.desligar();
-        System.out.println("A TV está ligada ? (3)" + smarTv.ligada);
-
-        smarTv.onoffBotao();
-        smarTv.onoffBotao();
-        smarTv.onoffBotao();
+        System.out.println("A TV está ligada ? (3) " + smarTv.ligada);
+ 
+        smarTv.botaoOnOff();
+        smarTv.botaoOnOff();
+        smarTv.botaoOnOff();
         
+        smarTv.aumentarVolume();
+        smarTv.aumentarVolume();
+        smarTv.aumentarVolume();
+        smarTv.diminuirVolume();
+        System.out.println(" Volume Atual em: " + smarTv.volume);
 
-        
+        smarTv.mudarCanal(13);
+        System.out.println(" Canal atual: " + smarTv.canal);
 
-       
+    }        
 
     
-}
-        
-
-
-       
-    }
 }
