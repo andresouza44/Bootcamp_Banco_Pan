@@ -1,8 +1,9 @@
 import java.util.Scanner;
 
-/* Digitar 5 notas
-   Calcular a média
-   e mostar a maior
+/*
+Digitar 5 notas
+Calcular a média
+e mostar a maior
 */
 
 public class Ex3_MaiorMedia {
@@ -10,7 +11,7 @@ public class Ex3_MaiorMedia {
          Scanner scan = new Scanner(System.in);
          int soma = 0;
          int maior =0;
-         long media;
+         double media;
          int nota;
 
          for (int n=0; n<5; n++) {

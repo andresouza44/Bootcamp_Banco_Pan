@@ -10,7 +10,7 @@ public class Ex2_Nota {
         while (nota <= 0 || nota >= 10 ){
 
           /*  if ( nota >= 0 && nota <= 10 ) break; */
-            System.out.print(" Valor InvÃ¡lido. Digite novamente ");
+            System.out.print(" Valor Inválido. Digite novamente ");
             nota = scan.nextInt();
 
         }
