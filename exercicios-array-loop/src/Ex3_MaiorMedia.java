@@ -9,17 +9,12 @@ public class Ex3_MaiorMedia {
      public static void main(String[] args) {
          Scanner scan = new Scanner(System.in);
          int soma = 0;
-         int maior;
+         int maior =0;
          long media;
          int nota;
 
-         System.out.println(" Digite a nota Nº 1: ");
-         nota = scan.nextInt();
-         maior = nota;
-         soma  = nota;
-
-         for (int n=2; n<6; n++) {
-             System.out.println(" Digite a nota Nº: "+ n +" ");
+         for (int n=0; n<5; n++) {
+             System.out.println(" Digite a nota Nº: "+ (n+1) +" ");
              nota = scan.nextInt();
              soma = soma + nota;
              if (nota > maior) maior = nota;
