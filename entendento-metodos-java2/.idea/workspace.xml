@@ -2,28 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="404dec6c-8378-4053-9583-ef875d37aea2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../entendento-metodos-java/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../entendento-metodos-java/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../entendento-metodos-java/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../entendento-metodos-java/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../entendento-metodos-java/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../entendento-metodos-java/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../entendento-metodos-java/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../entendento-metodos-java/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../entendento-metodos-java/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../entendento-metodos-java/entendento-metodos-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../entendento-metodos-java/out/production/entendento-metodos-java/sample/sample.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entendento-metodos-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex1/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex1/Mensagem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex2/Quadrilatero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desafios/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desafios/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desafios/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desafios/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desafios/desafios.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desafios/src/fabridaCarros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex2/Quadrilatero2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,6 +123,18 @@
       <option name="presentableId" value="Default" />
       <updated>1677176318549</updated>
     </task>
+    <task id="LOCAL-00001" summary="Entendento Métodos Java: Exercício 1 e Exercício 2">
+      <created>1677181756427</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677181756427</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Entendento Métodos Java: Exercício 1 e Exercício 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Entendento Métodos Java: Exercício 1 e Exercício 2" />
   </component>
 </project>

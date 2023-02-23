@@ -10,6 +10,10 @@ public class Main {
         Quadrilatero.calcularArea(5d,3d);
         Quadrilatero.calcularArea(5f,3f);
 
+        System.out.println(Quadrilatero2.calcularArea(5));
+        System.out.println(Quadrilatero2.calcularArea(11,6,3));
+        System.out.println(Quadrilatero2.calcularArea(5d,3d));
+        System.out.println(Quadrilatero2.calcularArea(5f,3f));
     }
 
 
