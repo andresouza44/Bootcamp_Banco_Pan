@@ -9,7 +9,30 @@ Saída
 Os valores devem ser mostrados na mesma linha, separados por um espaço em branco. Não deve haver espaço após o último valor
  */
 
+import java.io.IOException;
+import java.util.Scanner;
+
 public class Fibonacci {
+    public static void main(String[] args) throws IOException {
+
+        Scanner leitor = new Scanner(System.in);
+        int N = leitor.nextInt();
+
+        int proximo, anterior = 0, atual = 1;
+        for (int i = 0; i < N; i++) {
+            if (i==0) {
+                System.out.print("0 ");
+            }else{
+                proximo = atual + anterior;
+                System.out.print(atual + " ");
+                anterior = atual;
+                atual = proximo;
+
+            }
+
+
+        }
+    }
 
 
 }
