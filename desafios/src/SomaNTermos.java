@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 // Desafio Somar N termos
 
-public class somaNTermos {
+public class SomaNTermos {
 
         public static void main(String[] Args) {
 

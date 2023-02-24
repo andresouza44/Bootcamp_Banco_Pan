@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class fabridaCarros {
+public class FabridaCarros {
 
 
     // Para ler e escrever dados em Java, aqui na DIO padronizamos da seguinte forma:
