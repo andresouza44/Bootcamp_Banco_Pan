@@ -14,7 +14,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class ExercioProposto1 {
+class ExercioProposto1 {
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);
         //  double [][] tempMedia = new  double[6][6];
