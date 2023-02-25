@@ -1,3 +1,5 @@
+package Listas;
+
 import java.util.Comparator;
 
 public class Gatos implements Comparable<Gatos> {

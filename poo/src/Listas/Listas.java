@@ -1,4 +1,4 @@
-// Ecercícios de JAva Collection
+package Listas;// Ecercícios de JAva Collection
 // LIST
 import com.sun.source.tree.WhileLoopTree;
 
