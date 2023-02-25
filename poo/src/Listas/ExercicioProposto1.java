@@ -53,7 +53,7 @@ public class ExercioProposto1 {
  */
         List <Double> tempMensal = new ArrayList<Double>();
         for (int i=1; i<=6; i++){
-            System.out.println("Informe a temperatura do mês " +i);
+            System.out.print("Informe a temperatura do mês " +i + ": ");
             tempMensal.add(leitor.nextDouble());
         }
         double somaTemp =0;
@@ -63,7 +63,7 @@ public class ExercioProposto1 {
         double tempMediaSemestral = somaTemp/6;
         String tempMediaAux = new DecimalFormat("#,##0.00").format(tempMediaSemestral);
 
-        System.out.println(" Temperatura Média Semestral :" + tempMediaAux + "ºC");
+        System.out.println("\nTemperatura Média Semestral :" + tempMediaAux + "ºC");
         System.out.println("\n === Temperaturas acima da média ===");
         for (int i=0; i<6; i++){
             double tempAux = tempMensal.get(i);
