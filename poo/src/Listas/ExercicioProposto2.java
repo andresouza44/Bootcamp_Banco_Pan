@@ -46,11 +46,12 @@ public class ExercicioProposto2 {
         //    System.out.println(respostas.get(i));
             if (respostas.get(i).equals("s")) countS++;
             }
+
         switch (countS){
-            case (2): System.out.println("Você é Suspeito ");break;
-            case (3): System.out.println("Você é um Cúmplice ");break;
-            case (4): System.out.println("Você é um Cúmplice ");break;
-            case (5): System.out.println("Você é o Assassino ");break;
+            case 2: System.out.println("Você é Suspeito ");break;
+            case 3: System.out.println("Você é um Cúmplice ");break;
+            case 4: System.out.println("Você é um Cúmplice ");break;
+            case 5: System.out.println("Você é o Assassino ");break;
             default: System.out.println("Você é Inocente ");break;
         }
 
