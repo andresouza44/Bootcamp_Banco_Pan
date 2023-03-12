@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2e174af-5fd5-4de7-9eee-fb372dc7f262" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo/src/Map/Desafio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo/src/Map/ExercicopProposto1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo/src/Map/Populacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo/src/PooRelacoes/Heranca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios-array-loop/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios-array-loop/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios-array-loop/out/production/exercicios-array-loop/Arrays/Ex04_ArrayMultidimensional.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios-array-loop/out/production/exercicios-array-loop/Arrays/Ex04_ArrayMultidimensional.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios-array-loop/out/production/exercicios-array-loop/Arrays/Ex1_OrdemInvesa.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios-array-loop/out/production/exercicios-array-loop/Arrays/Ex1_OrdemInvesa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios-array-loop/out/production/exercicios-array-loop/Arrays/Ex2_Consoantes.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios-array-loop/out/production/exercicios-array-loop/Arrays/Ex2_Consoantes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios-array-loop/out/production/exercicios-array-loop/Arrays/Ex3_NumeroAleatorio.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios-array-loop/out/production/exercicios-array-loop/Arrays/Ex3_NumeroAleatorio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios-array-loop/out/production/exercicios-array-loop/Loops/Ex1_NomeIdade.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios-array-loop/out/production/exercicios-array-loop/Loops/Ex1_NomeIdade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios-array-loop/out/production/exercicios-array-loop/Loops/Ex2_Nota.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios-array-loop/out/production/exercicios-array-loop/Loops/Ex2_Nota.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios-array-loop/out/production/exercicios-array-loop/Loops/Ex3_MaiorMedia.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios-array-loop/out/production/exercicios-array-loop/Loops/Ex3_MaiorMedia.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios-array-loop/out/production/exercicios-array-loop/Loops/Ex4_ParImpar.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios-array-loop/out/production/exercicios-array-loop/Loops/Ex4_ParImpar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios-array-loop/out/production/exercicios-array-loop/Loops/Ex5_Tabuada.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios-array-loop/out/production/exercicios-array-loop/Loops/Ex5_Tabuada.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios-array-loop/out/production/exercicios-array-loop/Loops/Ex6_Fatorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios-array-loop/out/production/exercicios-array-loop/Loops/Ex6_Fatorial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios-array-loop/src/Arrays/Ex2_Consoantes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios-array-loop/src/Arrays/Ex2_Consoantes.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2MVwiIeTLV5IKUmHsN00fTqpbRd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2e174af-5fd5-4de7-9eee-fb372dc7f262" name="Changes" comment="" />
+      <created>1677866183536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677866183536</updated>
+    </task>
+    <servers />
+  </component>
+</project>
